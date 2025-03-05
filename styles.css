@@ -11,7 +11,8 @@ th, td {
     text-align: left;
 }
 
-th {
+#ans {
+	font-weight: bold;
     background-color: #f2f2f2;
 }
 
